@@ -14,13 +14,13 @@ Print two space-separated integers on one line: the minimum sum and the maximum 
 A single line of five space-separated integers.
 
 ### Output Format
-Print two space-separated long integers denoting the respective minimum and maximum values that can be calculated by summing exactly four of the five integers. (The output can be greater than a 32 bit integer.)
+Integer list denoting the respective minimum and maximum values that can be calculated by summing exactly four of the five integers. (The output can be greater than a 32 bit integer.)
 
 Sample Input
-1 2 3 4 5
+[1, 2, 3, 4, 5]
 
 Sample Output
-10 14
+[10, 14]
 
 Explanation
 10 is the smallest sum, 14 is the maximum sum
