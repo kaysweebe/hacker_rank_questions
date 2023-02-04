@@ -1,4 +1,4 @@
-function diagonalDifference(arr: number[][]): number {
+export default function diagonalDifference(arr: number[][]): number {
     // Write your code here
     let first_sum = 0
     let second_sum = 0

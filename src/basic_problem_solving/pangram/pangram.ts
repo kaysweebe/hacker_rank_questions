@@ -1,4 +1,4 @@
-function pangrams(s: string): string {
+export default function pangrams(s: string): string {
     // Write your code here
     let found_in_alpha: number[] = Array(26).fill(0)
     s.toLowerCase().split('').forEach((letter) => {
