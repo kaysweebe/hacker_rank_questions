@@ -1,4 +1,4 @@
-function lonelyinteger(a: number[]): number {
+export default function lonelyinteger(a: number[]): number {
     // Write your code here
     let ans = -1;
     a.forEach((n) => {
