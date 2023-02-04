@@ -1,4 +1,4 @@
-function matchingStrings(strings: string[], queries: string[]): number[] {
+export default function matchingStrings(strings: string[], queries: string[]): number[] {
     // Write your code here
     let num_matches: number[] = []
     queries.forEach((q) => {
