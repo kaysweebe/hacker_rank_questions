@@ -11,7 +11,7 @@ describe('Diagonal difference', () => {
         expect(diagonalDifference([[1, 1, 1], [1, 1, 1], [1, 1, 3]])).toStrictEqual(2);
     });  
 
-    test('Second term greater than second', () => {
+    test('Second term greater than first', () => {
         expect(diagonalDifference([[1, 1, 1], [1, 1, 1], [3, 1, 1]])).toBeGreaterThan(0);
         expect(diagonalDifference([[1, 1, 1], [1, 1, 1], [1, 1, 3]])).toStrictEqual(2);
     });
