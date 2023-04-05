@@ -1,6 +1,6 @@
 # hacker_rank_questions
 -- Hacker Rank's 1 month 4 week interview prep questions --
-This is my February 2023 challenge to get ready for technical interviews in Typescript.
+This is to get ready for technical interviews in Typescript.
 
 ## Getting Started
 1. Clone the repo at ```https://github.com/kaysweebe/hacker_rank_questions.git```
